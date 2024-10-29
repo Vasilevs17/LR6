@@ -11,4 +11,7 @@ int main() {
 
 	sum = x + y;
 
+	std::cout << "Ñóììà: " << sum << std::endl;
+
+	return 0;
 }
